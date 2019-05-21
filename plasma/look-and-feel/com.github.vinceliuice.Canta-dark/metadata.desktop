@@ -17,4 +17,4 @@ X-KDE-PluginInfo-Version=
 X-KDE-PluginInfo-Website=https://github.com/vinceliuice/Canta-kde
 X-KDE-fallbackPackage=org.kde.breeze.desktop
 X-Plasma-MainScript=defaults
-X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1298431,kns://plasma-themes.knsrc/api.kde-look.org/1298357,kns://aurorae.knsrc/api.kde-look.org/1298366,kns://icons.knsrc/api.kde-look.org/1296407
+X-KPackage-Dependencies=kns://colorschemes.knsrc/api.kde-look.org/1306412,kns://plasma-themes.knsrc/api.kde-look.org/1306411,kns://aurorae.knsrc/api.kde-look.org/1306413,kns://icons.knsrc/api.kde-look.org/1306416
