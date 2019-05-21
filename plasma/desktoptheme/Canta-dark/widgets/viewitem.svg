@@ -1,0 +1,174 @@
+<svg width="257" height="161" version="1.0" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#7B7C7E;
+      }
+      .ColorScheme-Background{
+        color:#EFF0F1;
+      }
+      .ColorScheme-Highlight{
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ViewBackground{
+        color:#FCFCFC;
+      }
+      .ColorScheme-ViewHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ViewFocus{
+        color:#1E92FF;
+      }
+      .ColorScheme-ButtonText {
+        color:#7B7C7E;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#EFF0F1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3DAEE6;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#1E92FF;
+      }</style>
+ </defs>
+ <rect id="hint-tile-center" x="49.93" y="-90.32" width="40" height="40" fill="#008000" opacity=".875"/>
+ <path id="selected-center" class="ColorScheme-Highlight" d="m41.99 20.03v48h48v-48z" color="#3daee6" fill="#00CE99" opacity=".8"/>
+ <g id="selected-left" transform="matrix(1,0,0,3.001,-148.15,-2470.4)">
+  <path class="ColorScheme-Highlight" d="m186.14 829.86v16h4v-16z" color="#3daee6" fill="#00CE99" opacity=".8"/>
+ </g>
+ <g id="selected-topleft" transform="translate(-148.15,-809.84)">
+  <path class="ColorScheme-Highlight" d="m186.14 829.86h4v-4h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312z" color="#3daee6" fill="#00CE99" opacity=".8"/>
+ </g>
+ <g id="selected-top" transform="matrix(.36658 0 0 1 -27.72 -809.83)">
+  <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6" fill="#00CE99" opacity=".8"/>
+ </g>
+ <g id="selected-topright" transform="translate(-231.15,-809.83)">
+  <path class="ColorScheme-Highlight" d="m321.14 825.86v4h4v-1.4688c0-1.405-1.1159-2.5312-2.5312-2.5312z" color="#3daee6" fill="#00CE99" opacity=".8"/>
+ </g>
+ <g id="selected-right" transform="matrix(1,0,0,3,-231.15,-2469.5)">
+  <path class="ColorScheme-Highlight" d="m325.14 829.86v16h-4v-16z" color="#3daee6" fill="#00CE99" opacity=".8"/>
+ </g>
+ <path id="normal-center" d="m141.84 10.96v48h48v-48z" fill="#fff" fill-opacity=".078431" opacity=".005"/>
+ <g id="normal-bottom" transform="matrix(.36658 0 0 .5 72.13 -359.98)" opacity=".005">
+  <path d="m190.13 845.86v4l130.98-0.0625v-3.9375z" fill="#fff" fill-opacity=".078431" opacity=".82273"/>
+  <path d="m190.14 849.86v1h131v-1z" fill-opacity=".15686" opacity=".85"/>
+  <path d="m190.14 848.86v1h131v-1z" fill="#fff" fill-opacity=".15686"/>
+  <rect transform="translate(-342.86,-17.143)" x="547" y="869" width="1" height="2" fill-opacity="0" opacity=".521"/>
+ </g>
+ <g id="normal-bottomleft" transform="matrix(.57143 0 0 .5 30.19 -359.98)" opacity=".005">
+  <path d="m188.67 850.86c-1.9482 0-3.5312-1.5884-3.5312-3.5312v-1.4688h1v1.4688c0 1.405 1.1159 2.5312 2.5312 2.5312h1.4688v1z" fill-opacity=".15686" opacity=".85"/>
+  <path d="m190.14 849.86v-4h-4v1.4688c0 1.405 1.1159 2.5312 2.5312 2.5312z" fill="#fff" fill-opacity=".078431" opacity=".82273"/>
+  <path d="m188.74 849.86c-1.6608 0-2.6-1.1986-2.6-2.7v-1.3h1l-0.021 1.2937c-0.0208 1.2806 0.23073 1.7063 1.621 1.7063h1.4v1z" fill="#fff" fill-opacity=".15686"/>
+  <rect x="183.14" y="851.86" width="2" height="2.0001" fill-opacity="0" opacity=".521"/>
+ </g>
+ <g id="normal-left" transform="matrix(.57143 0 0 3.001 30.19 -2479.4)" opacity=".005">
+  <path d="m186.14 829.86v16h4v-16z" fill="#fff" fill-opacity=".078431" opacity=".82273"/>
+  <path d="m185.14 829.86v16h1v-16z" fill-opacity=".15686" opacity=".85"/>
+  <path d="m186.14 829.86v16h1v-16z" fill="#fff" fill-opacity=".15686"/>
+  <rect x="183.14" y="834.86" width="2" height="3" fill-opacity="0" opacity=".521"/>
+ </g>
+ <g id="normal-topleft" transform="matrix(.57143 0 0 .57143 30.19 -463.26)" opacity=".005">
+  <path d="m186.14 829.86h4v-4h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312z" fill="#fff" fill-opacity=".078431" opacity=".82273"/>
+  <path d="m185.14 828.39c0-1.9482 1.5884-3.5312 3.5312-3.5312h1.4688v1h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312v1.4688h-1z" fill-opacity=".15686" opacity=".85"/>
+  <path d="m186.14 829.86h1v-1c0-1.4154 0.59498-2 2-2h1v-1h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312z" fill="#fff" fill-opacity=".15686"/>
+  <rect x="183.14" y="822.86" width="2" height="1.9999" fill-opacity="0" opacity=".521"/>
+ </g>
+ <g id="normal-top" transform="matrix(.36658 0 0 .57143 72.13 -463.25)" opacity=".005">
+  <path d="m190.14 825.86v4h131v-4z" fill="#fff" fill-opacity=".078431" opacity=".82273"/>
+  <path d="m190.14 824.86v1h131v-1z" fill-opacity=".15686" opacity=".85"/>
+  <path d="m190.14 825.86v1h131v-1z" fill="#fff" fill-opacity=".15686"/>
+  <rect x="200.14" y="822.86" width="3" height="1.9999" fill-opacity="0" opacity=".521"/>
+ </g>
+ <g id="normal-topright" transform="matrix(.57143 0 0 .57143 6.33 -463.25)" opacity=".005">
+  <path d="m321.14 825.86v4h4v-1.4688c0-1.405-1.1159-2.5312-2.5312-2.5312z" fill="#fff" fill-opacity=".078431" opacity=".82273"/>
+  <path d="m322.61 824.86c1.9482 0 3.5312 1.5884 3.5312 3.5312v1.4688h-1v-1.4688c0-1.405-1.1159-2.5312-2.5312-2.5312h-1.4688v-1z" fill-opacity=".15686" opacity=".85"/>
+  <path d="m325.14 829.86h-1v-1c0-1.4154-0.59498-2-2-2h-1v-1h1.4688c1.405 0 2.5312 1.1159 2.5312 2.5312z" fill="#fff" fill-opacity=".15686"/>
+  <rect x="326.14" y="822.86" width="2" height="1.9999" fill-opacity="0" opacity=".521"/>
+ </g>
+ <g id="normal-right" transform="matrix(.57143 0 0 3 6.33 -2478.6)" opacity=".005">
+  <path d="m325.14 829.86v16h-4v-16z" fill="#fff" fill-opacity=".078431" opacity=".82273"/>
+  <path d="m326.14 829.86v16h-1v-16z" fill-opacity=".15686" opacity=".85"/>
+  <path d="m325.14 829.86v16h-1v-16z" fill="#fff" fill-opacity=".15686"/>
+  <rect x="326.14" y="832.86" width="2" height="3" fill-opacity="0" opacity=".521"/>
+ </g>
+ <g id="normal-bottomright" transform="matrix(.57143 0 0 .5 6.33 -359.98)" opacity=".005">
+  <path d="m325.14 845.86h-4v4h1.4688c1.405 0 2.5312-1.1159 2.5312-2.5312z" fill="#fff" fill-opacity=".078431" opacity=".82273"/>
+  <path d="m322.14 849.86c1.5971 0 3-0.57542 3-3v-1h-1v1c0 0.89359-0.31679 2-2 2h-1v1z" fill="#fff" fill-opacity=".15686"/>
+  <path d="m326.14 847.33c0 1.9482-1.5884 3.5312-3.5312 3.5312h-1.4688v-1h1.4688c1.405 0 2.5312-1.1159 2.5312-2.5312v-1.4688h1z" fill-opacity=".15686" opacity=".852"/>
+  <rect x="326.14" y="851.86" width="2" height="2.0001" fill-opacity="0" opacity=".521"/>
+ </g>
+ <g fill="#00CE99">
+  <path id="hover-center" class="ColorScheme-Highlight" d="m45 93.47v48h48v-48z" color="#3daee6"/>
+  <g id="hover-left" transform="matrix(1,0,0,3.001,-145.14,-2396.9)">
+   <path class="ColorScheme-Highlight" d="m186.14 829.86v16h4v-16z" color="#3daee6"/>
+   <path class="ColorScheme-Highlight" d="m186.14 829.86v16h1v-16z" color="#3daee6"/>
+  </g>
+  <g id="hover-topleft" transform="translate(-145.14,-736.39)">
+   <path class="ColorScheme-Highlight" d="m186.14 829.86h4v-4h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312z" color="#3daee6"/>
+   <path class="ColorScheme-Highlight" transform="translate(145.14,736.4)" d="m43.531 89.438c-1.405 0-2.5312 1.1159-2.5312 2.5312v1.4688h1v-1.0938c0-1.0615 0.85248-1.9062 1.9062-1.9062h1.0938v-1z" color="#3daee6"/>
+  </g>
+  <g id="hover-top" transform="matrix(.36658 0 0 1 -24.71 -736.39)">
+   <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6"/>
+   <path class="ColorScheme-Highlight" d="m190.14 825.86v1h131v-1z" color="#3daee6"/>
+  </g>
+  <g id="hover-topright" transform="translate(-228.14,-736.39)">
+   <path class="ColorScheme-Highlight" d="m321.14 825.86v4h4v-1.4688c0-1.405-1.1159-2.5312-2.5312-2.5312z" color="#3daee6"/>
+   <path class="ColorScheme-Highlight" d="m322.61 825.86c1.405 0 2.5312 1.1159 2.5312 2.5312v1.4688h-1v-1.0938c0-1.0615-0.85248-1.9062-1.9062-1.9062h-1.0938v-1z" color="#3daee6"/>
+  </g>
+  <g id="hover-right" transform="matrix(1,0,0,3,-228.14,-2396.1)">
+   <path class="ColorScheme-Highlight" d="m325.14 829.86v16h-4v-16z" color="#3daee6"/>
+   <path class="ColorScheme-Highlight" d="m325.14 829.86v16h-1v-16z" color="#3daee6"/>
+  </g>
+  <path id="selected+hover-center" class="ColorScheme-Highlight" d="m150 93.26v48h48v-48z" color="#3daee6"/>
+ </g>
+ <g id="selected+hover-left" transform="matrix(1,0,0,3.001,-40.14,-2397.1)">
+  <path class="ColorScheme-Highlight" d="m186.14 829.86v16h4v-16z" color="#3daee6" fill="#00CE99"/>
+ </g>
+ <g id="selected+hover-topleft" transform="translate(-40.14,-736.61)">
+  <path class="ColorScheme-Highlight" d="m186.14 829.86h4v-4h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312z" color="#3daee6" fill="#00CE99"/>
+ </g>
+ <g id="selected+hover-top" transform="matrix(.36658 0 0 1 80.29 -736.59)">
+  <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6" fill="#00CE99"/>
+ </g>
+ <g id="selected+hover-topright" transform="translate(-123.14,-736.59)">
+  <path class="ColorScheme-Highlight" d="m321.14 825.86v4h4v-1.4688c0-1.405-1.1159-2.5312-2.5312-2.5312z" color="#3daee6" fill="#00CE99"/>
+ </g>
+ <g id="selected+hover-right" transform="matrix(1,0,0,3,-123.14,-2396.3)">
+  <path class="ColorScheme-Highlight" d="m325.14 829.86v16h-4v-16z" color="#3daee6" fill="#00CE99"/>
+ </g>
+ <g id="selected-bottomright" transform="rotate(180 140.07 448.94)">
+  <path class="ColorScheme-Highlight" d="m186.14 829.86h4v-4h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312z" color="#3daee6" fill="#00CE99" opacity=".8"/>
+ </g>
+ <g id="selected-bottom" transform="matrix(-.36658 0 0 -1 159.72 897.9)">
+  <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6" fill="#00CE99" opacity=".8"/>
+ </g>
+ <g id="selected-bottomleft" transform="rotate(180 181.57 448.94)">
+  <path class="ColorScheme-Highlight" d="m321.14 825.86v4h4v-1.4688c0-1.405-1.1159-2.5312-2.5312-2.5312z" color="#3daee6" fill="#00CE99" opacity=".8"/>
+ </g>
+ <g fill="#00CE99">
+  <g id="hover-bottomright" transform="rotate(180 141.57 485.65)">
+   <path class="ColorScheme-Highlight" d="m186.14 829.86h4v-4h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312z" color="#3daee6"/>
+   <path class="ColorScheme-Highlight" transform="translate(145.14,736.4)" d="m43.531 89.438c-1.405 0-2.5312 1.1159-2.5312 2.5312v1.4688h1v-1.0938c0-1.0615 0.85248-1.9062 1.9062-1.9062h1.0938v-1z" color="#3daee6"/>
+  </g>
+  <g id="hover-bottom" transform="matrix(-.36658 0 0 -1 162.72 971.3)">
+   <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6"/>
+   <path class="ColorScheme-Highlight" d="m190.14 825.86v1h131v-1z" color="#3daee6"/>
+  </g>
+  <g id="hover-bottomleft" transform="rotate(180 183.07 485.65)">
+   <path class="ColorScheme-Highlight" d="m321.14 825.86v4h4v-1.4688c0-1.405-1.1159-2.5312-2.5312-2.5312z" color="#3daee6"/>
+   <path class="ColorScheme-Highlight" d="m322.61 825.86c1.405 0 2.5312 1.1159 2.5312 2.5312v1.4688h-1v-1.0938c0-1.0615-0.85248-1.9062-1.9062-1.9062h-1.0938v-1z" color="#3daee6"/>
+  </g>
+ </g>
+ <g id="selected+hover-bottomright" transform="rotate(180 194.07 485.55)">
+  <path class="ColorScheme-Highlight" d="m186.14 829.86h4v-4h-1.4688c-1.405 0-2.5312 1.1159-2.5312 2.5312z" color="#3daee6" fill="#00CE99"/>
+ </g>
+ <g id="selected+hover-bottom" transform="matrix(-.36658 0 0 -1 267.72 971.1)">
+  <path class="ColorScheme-Highlight" d="m190.14 825.86v4h131v-4z" color="#3daee6" fill="#00CE99"/>
+ </g>
+ <g id="selected+hover-bottomleft" transform="rotate(180,235.57,485.55)">
+  <path class="ColorScheme-Highlight" d="m321.14 825.86v4h4v-1.4688c0-1.405-1.1159-2.5312-2.5312-2.5312z" color="#3daee6" fill="#00CE99"/>
+ </g>
+</svg>

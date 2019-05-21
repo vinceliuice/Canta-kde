@@ -1,0 +1,17 @@
+[kdeglobals][KDE]
+widgetStyle=kvantum
+
+[kdeglobals][General]
+ColorScheme=Canta-light
+
+[kdeglobals][Icons]
+Theme=Canta
+
+[plasmarc][Theme]
+name=Canta-light
+
+[kwinrc][org.kde.kdecoration2]
+theme=__aurorae__svg__Canta-light
+
+[kcminputrc][Mouse]
+cursorTheme=breeze_cursors

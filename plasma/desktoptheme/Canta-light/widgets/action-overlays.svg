@@ -1,0 +1,50 @@
+<svg width="48" height="48" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <g id="remove-normal" transform="translate(0,-18)">
+  <rect y="34" width="16" height="16" opacity=".001"/>
+  <path d="m15 42a7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7z" fill="#ccc"/>
+  <rect transform="rotate(90)" x="41" y="-12" width="2" height="8" fill="#333"/>
+ </g>
+ <g id="add-normal" transform="translate(0,-18)">
+  <rect y="18" width="16" height="16" opacity=".001"/>
+  <path d="m15 26a7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7z" fill="#ccc"/>
+  <rect x="7" y="22" width="2" height="8" fill="#333"/>
+  <rect transform="rotate(90)" x="25" y="-12" width="2" height="8" fill="#333"/>
+ </g>
+ <g id="open-normal" transform="translate(0,-18)">
+  <rect y="50" width="16" height="16" opacity=".001"/>
+  <path d="m15 58a7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7z" fill="#ccc"/>
+  <path transform="matrix(1.0756 0 0 .77622 -.90682 26.622)" d="m8.281 36.559 3.719 6.4414h-7.438l1.8595-3.2207z" fill="#333"/>
+ </g>
+ <g id="remove-hover" transform="translate(16,-18)">
+  <rect y="34" width="16" height="16" opacity=".001"/>
+  <path d="m15 42a7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7z" fill="#b3b3b3"/>
+  <rect transform="rotate(90)" x="41" y="-12" width="2" height="8" fill="#333"/>
+ </g>
+ <g id="add-hover" transform="translate(16,-18)">
+  <rect y="18" width="16" height="16" opacity=".001"/>
+  <path d="m15 26a7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7z" fill="#b3b3b3"/>
+  <rect x="7" y="22" width="2" height="8" fill="#333"/>
+  <rect transform="rotate(90)" x="25" y="-12" width="2" height="8" fill="#333"/>
+ </g>
+ <g id="open-hover" transform="translate(16,-18)">
+  <rect y="50" width="16" height="16" opacity=".001"/>
+  <path d="m15 58a7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7z" fill="#b3b3b3"/>
+  <path transform="matrix(1.0756 0 0 .77622 -.90682 26.622)" d="m8.281 36.559 3.719 6.4414h-7.438l1.8595-3.2207z" fill="#333"/>
+ </g>
+ <g id="remove-pressed" transform="translate(32,-18)">
+  <rect y="34" width="16" height="16" opacity=".001"/>
+  <path d="m15 42a7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7z" fill="#00ce99"/>
+  <rect transform="rotate(90)" x="41" y="-12" width="2" height="8" fill="#fff"/>
+ </g>
+ <g id="add-pressed" transform="translate(32,-18)">
+  <rect y="18" width="16" height="16" opacity=".001"/>
+  <path d="m15 26a7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7z" fill="#00ce99"/>
+  <rect x="7" y="22" width="2" height="8" fill="#fff"/>
+  <rect transform="rotate(90)" x="25" y="-12" width="2" height="8" fill="#fff"/>
+ </g>
+ <g id="open-pressed" transform="translate(32,-18)">
+  <rect y="50" width="16" height="16" opacity=".001"/>
+  <path d="m15 58a7 7 0 0 1-7 7 7 7 0 0 1-7-7 7 7 0 0 1 7-7 7 7 0 0 1 7 7z" fill="#00ce99"/>
+  <path transform="matrix(1.0756 0 0 .77622 -.90682 26.622)" d="m8.281 36.559 3.719 6.4414h-7.438l1.8595-3.2207z" fill="#fff"/>
+ </g>
+</svg>
