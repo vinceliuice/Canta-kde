@@ -34,5 +34,5 @@ GNU GPL v3
 
 ## preview
 
-![1](https://github.com/vinceliuice/Qogir-kde/blob/master/canta.jpg?raw=true)
+![1](https://github.com/vinceliuice/Canta-kde/blob/master/canta.jpg?raw=true)
 
