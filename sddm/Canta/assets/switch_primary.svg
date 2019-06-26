@@ -1,0 +1,51 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.43333491"/>
+  </filter>
+ </defs>
+ <g transform="translate(-6.1297 -1009.8)">
+  <g transform="matrix(3.1818 0 0 3.1818 -1217.5 -701.24)">
+   <g id="system-switch-user" transform="matrix(.31429 0 0 .31429 327.06 568.54)">
+    <rect x="183" y="-98" width="32" height="32" rx="0" ry="0" opacity="0" stroke-width="2" style="paint-order:fill markers stroke"/>
+    <g transform="translate(183 -1188.5)">
+     <circle cx="16" cy="1106.5" r="14.444" filter="url(#a)" opacity=".15"/>
+     <circle cx="16" cy="1106.5" r="14" fill="#81c784"/>
+     <g fill="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="2">
+      <path d="m14.52 1107a0.5 0.5 0 0 1 0.48 0.5v2h7c0.277 0 0.5 0.223 0.5 0.5v2c0 0.276-0.223 0.5-0.5 0.5h-7v2a0.5 0.5 0 0 1-0.806 0.394l-4.5-3.5a0.5 0.5 0 0 1 0-0.79l4.5-3.499a0.503 0.503 0 0 1 0.326-0.105zm2.96-9a0.5 0.5 0 0 0-0.48 0.5v2h-7c-0.277 0-0.5 0.223-0.5 0.5v2c0 0.277 0.223 0.5 0.5 0.5h7v2a0.5 0.5 0 0 0 0.806 0.394l4.5-3.5a0.5 0.5 0 0 0 0-0.789l-4.5-3.5a0.503 0.503 0 0 0-0.326-0.105z"/>
+     </g>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>

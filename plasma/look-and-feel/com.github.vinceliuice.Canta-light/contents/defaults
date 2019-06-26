@@ -2,7 +2,7 @@
 widgetStyle=kvantum
 
 [kdeglobals][General]
-ColorScheme=Canta-light
+ColorScheme=Cantalight
 
 [kdeglobals][Icons]
 Theme=Canta
@@ -11,6 +11,7 @@ Theme=Canta
 name=Canta-light
 
 [kwinrc][org.kde.kdecoration2]
+library=org.kde.kwin.aurorae
 theme=__aurorae__svg__Canta-light
 
 [kcminputrc][Mouse]

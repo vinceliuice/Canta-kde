@@ -1,0 +1,48 @@
+<svg width="32" height="32" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+        color:#31363b;
+      }
+      .ColorScheme-Background{
+        color:#eff0f1;
+      }
+      .ColorScheme-ViewText {
+        color:#31363b;
+      }
+      .ColorScheme-ViewBackground{
+        color:#fcfcfc;
+      }
+      .ColorScheme-ViewHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ViewFocus{
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonText {
+        color:#31363b;
+      }
+      .ColorScheme-ButtonBackground{
+        color:#eff0f1;
+      }
+      .ColorScheme-ButtonHover {
+        color:#3daee9;
+      }
+      .ColorScheme-ButtonFocus{
+        color:#3daee9;
+      }</style>
+  <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
+   <feGaussianBlur stdDeviation="0.43506"/>
+  </filter>
+ </defs>
+ <g transform="translate(-6.1297 -1009.8)">
+  <g id="system-reboot" transform="translate(26.13 1107.8)">
+   <rect x="-20" y="-98" width="32" height="32" rx="0" ry="0" opacity="0" stroke-width="2" style="paint-order:fill markers stroke"/>
+   <g transform="translate(-20.002,-97.998)">
+    <path d="m16.002 1.496c-8.002 0-14.502 6.5-14.502 14.502s6.5 14.502 14.502 14.502c8.001 0 14.502-6.5 14.502-14.502 0-8.001-6.5-14.502-14.502-14.502z" color="#000000" fill-opacity=".992" filter="url(#a)" opacity=".15" overflow="visible"/>
+    <path d="m16.002 1.998c-7.725 0-14 6.275-14 14 0 7.725 6.275 14 14 14 7.724 0 14-6.275 14-14 0-7.724-6.275-14-14-14z" color="#000000" fill="#4da2f3" fill-opacity=".992" opacity=".99" overflow="visible"/>
+    <path d="m16.002 1.498c-8 0-14.5 6.5-14.5 14.5s6.5 14.5 14.5 14.5 14.5-6.5 14.5-14.5-6.5-14.5-14.5-14.5z" color="#000000" fill="none" opacity=".5" overflow="visible" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
+    <path d="m16 6.5v2.429a7.286 7.286 0 1 0 7.286 7.285h-2.429a4.857 4.857 0 1 1-4.857-4.857v2.429l6.071-3.643z" color="#bebebe" fill="#fff" overflow="visible"/>
+   </g>
+  </g>
+ </g>
+</svg>

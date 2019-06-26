@@ -178,97 +178,97 @@
  </g>
  <g id="focus-left" transform="translate(65,-989.36)">
   <path d="m47 1013.4v32h2v-32z" fill="url(#n)"/>
-  <path d="m52 1045.4v-32h-3v32z" fill="#42464c"/>
+  <path d="m52 1045.4v-32h-3v32z" fill="#565e5c"/>
  </g>
  <g id="focus-top" transform="translate(65,-989.36)">
   <path d="m84 1009.4h-32v1h32z" fill="url(#m)"/>
-  <path d="m52 1013.4h32v-3h-32z" fill="#42464c"/>
+  <path d="m52 1013.4h32v-3h-32z" fill="#565e5c"/>
   <path d="m52 1010.4v1h32v-1z" fill="#fff" opacity=".05"/>
  </g>
  <g id="focus-right" transform="translate(65,-989.36)">
   <path d="m89 1013.4v32h-2v-32z" fill="url(#l)"/>
-  <path d="m84 1045.4v-32h3v32z" fill="#42464c"/>
+  <path d="m84 1045.4v-32h3v32z" fill="#565e5c"/>
  </g>
- <path id="focus-center" d="m149 56v-32h-32v32z" fill="#42464c"/>
+ <path id="focus-center" d="m149 56v-32h-32v32z" fill="#565e5c"/>
  <g id="focus-bottom" transform="translate(65,-989.36)">
   <path d="m52 1052.4h32v-5h-32z" fill="url(#k)"/>
-  <path d="m84 1045.4h-32v2h32z" fill="#42464c"/>
+  <path d="m84 1045.4h-32v2h32z" fill="#565e5c"/>
  </g>
  <g id="focus-bottomleft" transform="translate(65,-989.36)">
   <path d="m47 1045.4v7h5v-5h-1c-1.5 0-2-0.5-2-2z" fill="url(#c)" opacity=".6"/>
   <path d="m47 1045.4v7h5v-5h-1c-1.5 0-2-0.5-2-2z" fill="url(#d)"/>
-  <path d="m52 1047.4h-1c-1.5 0-2-0.5-2-2h3z" fill="#42464c"/>
+  <path d="m52 1047.4h-1c-1.5 0-2-0.5-2-2h3z" fill="#565e5c"/>
  </g>
  <g id="focus-topleft" transform="translate(65,-989.36)">
   <path transform="translate(-7.6294e-6,1006.4)" d="m47 3v4h2v-1c0-1.5 0.5-2 2-2h1v-1z" fill="url(#e)"/>
   <path transform="translate(-7.6294e-6,1006.4)" d="m47 3v4h2v-1c0-1.5 0.5-2 2-2h1v-1z" fill="url(#f)"/>
-  <path d="m52 1010.4h-1c-1.5 0-2 0.5-2 2v1h3z" fill="#42464c"/>
+  <path d="m52 1010.4h-1c-1.5 0-2 0.5-2 2v1h3z" fill="#565e5c"/>
   <path d="m51 1010.4c-1.5 0-2 0.5-2 2v1c0-1.5 0.5-2 2-2h1v-1z" fill="#fff" opacity=".05"/>
  </g>
  <g id="focus-bottomright" transform="translate(65,-989.36)">
   <path d="m89 1045.4v7h-5v-5h1c1.5 0 2-0.5 2-2z" fill="url(#g)" opacity=".6"/>
   <path d="m89 1045.4v7h-5v-5h1c1.5 0 2-0.5 2-2z" fill="url(#h)"/>
-  <path d="m84 1047.4h1c1.5 0 2-0.5 2-2h-3z" fill="#42464c"/>
+  <path d="m84 1047.4h1c1.5 0 2-0.5 2-2h-3z" fill="#565e5c"/>
  </g>
  <g id="focus-topright" transform="translate(65,-989.36)">
   <path transform="translate(-7.6294e-6,1006.4)" d="m84 3v1h1c1.5 0 2 0.5 2 2v1h2v-4z" fill="url(#i)"/>
   <path transform="translate(-7.6294e-6,1006.4)" d="m84 3v1h1c1.5 0 2 0.5 2 2v1h2v-4z" fill="url(#j)"/>
-  <path d="m84 1010.4h1c1.5 0 2 0.5 2 2v1h-3z" fill="#42464c"/>
+  <path d="m84 1010.4h1c1.5 0 2 0.5 2 2v1h-3z" fill="#565e5c"/>
   <path d="m85 1010.4c1.5 0 2 0.5 2 2v1c0-1.5-0.5-2-2-2h-1v-1z" fill="#fff" opacity=".05"/>
  </g>
  <g id="hover-left" transform="translate(20,-989.36)">
   <path d="m47 1013.4v32h2v-32z" fill="url(#n)"/>
-  <path d="m52 1045.4v-32h-3v32z" fill="#42464c"/>
+  <path d="m52 1045.4v-32h-3v32z" fill="#565e5c"/>
  </g>
  <g id="hover-top" transform="translate(20,-989.36)">
   <path d="m84 1009.4h-32v1h32z" fill="url(#m)"/>
-  <path d="m52 1013.4h32v-3h-32z" fill="#42464c"/>
+  <path d="m52 1013.4h32v-3h-32z" fill="#565e5c"/>
   <path d="m52 1010.4v1h32v-1z" fill="#fff" opacity=".05"/>
  </g>
  <g id="hover-right" transform="translate(20,-989.36)">
   <path d="m89 1013.4v32h-2v-32z" fill="url(#l)"/>
-  <path d="m84 1045.4v-32h3v32z" fill="#42464c"/>
+  <path d="m84 1045.4v-32h3v32z" fill="#565e5c"/>
  </g>
  <g id="normal-right" transform="matrix(-1 0 0 1 108 4)" fill="#424242">
-  <path d="m51 52v-32h-3v32z" fill="#3e4046"/>
+  <path d="m51 52v-32h-3v32z" fill="#4c5351"/>
  </g>
  <g id="normal-bottomright" transform="translate(18,-990.36)">
   <path d="m42 1046.4c0 1.5-0.52041 1.2534-2 1.5l-0.99998 0.5v2c2.1589-0.3132 2.9733-0.5985 3-2.5v-1z" fill="url(#p)" opacity=".3"/>
   <g transform="matrix(-1,0,0,1,44,993.36)" fill="#424242">
-   <path d="m5 55h-0.99998c-1.5 0-2-0.5-2-2v4.2e-5h3z" fill="#3e4046"/>
+   <path d="m5 55h-0.99998c-1.5 0-2-0.5-2-2v4.2e-5h3z" fill="#4c5351"/>
   </g>
  </g>
- <path id="normal-center" d="m57 56v-32h-32v32z" fill="#3e4046"/>
+ <path id="normal-center" d="m57 56v-32h-32v32z" fill="#4c5351"/>
  <g id="normal-left" transform="translate(-26 4)" fill="#424242">
-  <path d="m51 52v-32h-3v32z" fill="#3e4046"/>
+  <path d="m51 52v-32h-3v32z" fill="#4c5351"/>
  </g>
  <g id="normal-bottom" transform="translate(20,-990.36)">
   <path d="m5 1046.4v4h32v-4z" fill="url(#q)" opacity=".3"/>
   <g transform="translate(-48,994.36)" fill="#424242">
-   <path d="m85 52h-32v2h32z" fill="#3e4046"/>
+   <path d="m85 52h-32v2h32z" fill="#4c5351"/>
   </g>
  </g>
  <g id="normal-bottomleft" transform="translate(22,-990.36)">
   <path d="m-7.6e-6 1046.4v1.5c0.53714 2.5133 0.71024 2.1184 3 2.5v-2l-1-0.5c-1.3416-0.6708-2 0-2-1.5z" fill="url(#o)" opacity=".3"/>
   <g transform="translate(-2,993.36)" fill="#424242">
-   <path d="m5 55h-1c-1.5 0-2-0.5-2-2v4.2e-5h3z" fill="#3e4046"/>
+   <path d="m5 55h-1c-1.5 0-2-0.5-2-2v4.2e-5h3z" fill="#4c5351"/>
   </g>
  </g>
  <g id="normal-top" transform="translate(20,-986.36)">
   <g transform="translate(-48,988.36)">
-   <path d="m53 22h32v-3h-32z" fill="#3e4046"/>
+   <path d="m53 22h32v-3h-32z" fill="#4c5351"/>
   </g>
   <path d="m5 1007.4v1h32v-1z" fill="#fff" opacity=".05"/>
  </g>
  <g id="normal-topleft" transform="translate(22,-986.36)">
   <g transform="translate(-2,993.36)">
-   <path d="m5 14h-1c-1.5 0-2 0.5-2 2v1h3z" fill="#3e4046"/>
+   <path d="m5 14h-1c-1.5 0-2 0.5-2 2v1h3z" fill="#4c5351"/>
   </g>
   <path d="m2 1007.4c-1.5 0-2 0.5-2 2v1c0-1.5 0.5-2 2-2h1v-1z" fill="#fff" opacity=".05"/>
  </g>
  <g id="normal-topright" transform="translate(18,-986.36)">
   <g transform="matrix(-1,0,0,1,44,993.36)">
-   <path d="m5 14h-0.99998c-1.5 0-2 0.5-2 2v1h3z" fill="#3e4046"/>
+   <path d="m5 14h-0.99998c-1.5 0-2 0.5-2 2v1h3z" fill="#4c5351"/>
   </g>
   <path d="m40 1007.4c1.5 0 2 0.5 2 2v1c0-1.5-0.5-2-2-2h-0.99998v-1z" fill="#fff" opacity=".05"/>
  </g>
@@ -282,31 +282,31 @@
   <rect id="hover-hint-right-margin" transform="rotate(-90)" x="-38.998" y="107" width="2" height="2"/>
   <rect id="hover-hint-left-margin" transform="rotate(-90)" x="-38.998" y="67" width="2" height="2"/>
  </g>
- <path id="hover-center" d="m104 56v-32h-32v32z" fill="#42464c"/>
+ <path id="hover-center" d="m104 56v-32h-32v32z" fill="#565e5c"/>
  <g id="hover-bottom" transform="translate(20,-989.36)">
   <path d="m52 1052.4h32v-5h-32z" fill="url(#k)"/>
-  <path d="m84 1045.4h-32v2h32z" fill="#42464c"/>
+  <path d="m84 1045.4h-32v2h32z" fill="#565e5c"/>
  </g>
  <g id="hover-bottomleft" transform="translate(20,-989.36)">
   <path d="m47 1045.4v7h5v-5h-1c-1.5 0-2-0.5-2-2z" fill="url(#c)" opacity=".6"/>
   <path d="m47 1045.4v7h5v-5h-1c-1.5 0-2-0.5-2-2z" fill="url(#d)"/>
-  <path d="m52 1047.4h-1c-1.5 0-2-0.5-2-2h3z" fill="#42464c"/>
+  <path d="m52 1047.4h-1c-1.5 0-2-0.5-2-2h3z" fill="#565e5c"/>
  </g>
  <g id="hover-topleft" transform="translate(20,-989.36)">
   <path transform="translate(-7.6294e-6,1006.4)" d="m47 3v4h2v-1c0-1.5 0.5-2 2-2h1v-1z" fill="url(#e)"/>
   <path transform="translate(-7.6294e-6,1006.4)" d="m47 3v4h2v-1c0-1.5 0.5-2 2-2h1v-1z" fill="url(#f)"/>
-  <path d="m52 1010.4h-1c-1.5 0-2 0.5-2 2v1h3z" fill="#42464c"/>
+  <path d="m52 1010.4h-1c-1.5 0-2 0.5-2 2v1h3z" fill="#565e5c"/>
   <path d="m51 1010.4c-1.5 0-2 0.5-2 2v1c0-1.5 0.5-2 2-2h1v-1z" fill="#fff" opacity=".05"/>
  </g>
  <g id="hover-bottomright" transform="translate(20,-989.36)">
   <path d="m89 1045.4v7h-5v-5h1c1.5 0 2-0.5 2-2z" fill="url(#g)" opacity=".6"/>
   <path d="m89 1045.4v7h-5v-5h1c1.5 0 2-0.5 2-2z" fill="url(#h)"/>
-  <path d="m84 1047.4h1c1.5 0 2-0.5 2-2h-3z" fill="#42464c"/>
+  <path d="m84 1047.4h1c1.5 0 2-0.5 2-2h-3z" fill="#565e5c"/>
  </g>
  <g id="hover-topright" transform="translate(20,-989.36)">
   <path transform="translate(-7.6294e-6,1006.4)" d="m84 3v1h1c1.5 0 2 0.5 2 2v1h2v-4z" fill="url(#i)"/>
   <path transform="translate(-7.6294e-6,1006.4)" d="m84 3v1h1c1.5 0 2 0.5 2 2v1h2v-4z" fill="url(#j)"/>
-  <path d="m84 1010.4h1c1.5 0 2 0.5 2 2v1h-3z" fill="#42464c"/>
+  <path d="m84 1010.4h1c1.5 0 2 0.5 2 2v1h-3z" fill="#565e5c"/>
   <path d="m85 1010.4c1.5 0 2 0.5 2 2v1c0-1.5-0.5-2-2-2h-1v-1z" fill="#fff" opacity=".05"/>
  </g>
  <rect id="hover-hint-bottom-margin" x="85" y="59.998" width="2" height="3" fill="#9a06ff"/>
