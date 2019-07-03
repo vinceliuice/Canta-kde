@@ -18,11 +18,17 @@ install() {
   [[ ${color} == '-dark' ]] && local ELSE_COLOR='dark'
   [[ ${color} == '-light' ]] && local ELSE_COLOR='light'
 
-  local AURORAE_THEME=${AURPRAE_DIR}/${name}${color}
-  local PLASMA_THEME=${PLASMA_DIR}/${name}${color}
-  local LOOKFEEL_THEME=${LOOKFEEL_DIR}/${name}${color}
-  local SCHEMES_THEME=${SCHEMES_DIR}/${name}${ELSE_COLOR}.colors
-  local KVANTUM_THEME=${KVANTUM_DIR}/${name}${color}
+  local AURORAE_THEME="${AURORAE_DIR}/${name}${color}"
+  local PLASMA_THEME="${PLASMA_DIR}/${name}${color}"
+  local LOOKFEEL_THEME="${LOOKFEEL_DIR}/com.github.vinceliuice.${name}${color}"
+  local SCHEMES_THEME="${SCHEMES_DIR}/${name}${ELSE_COLOR}.colors"
+  local KVANTUM_THEME="${KVANTUM_DIR}/${name}${color}"
+
+  mkdir -p                                                                           ${AURORAE_DIR}
+  mkdir -p                                                                           ${SCHEMES_DIR}
+  mkdir -p                                                                           ${PLASMA_DIR}
+  mkdir -p                                                                           ${LOOKFEEL_DIR}
+  mkdir -p                                                                           ${KVANTUM_DIR}
 
   [[ -d ${AURORAE_THEME} ]] && rm -rf ${AURORAE_THEME}
   [[ -d ${PLASMA_THEME} ]] && rm -rf ${PLASMA_THEME}
