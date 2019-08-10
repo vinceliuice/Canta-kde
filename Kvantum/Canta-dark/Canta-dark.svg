@@ -43,9 +43,9 @@
      inkscape:snap-smooth-nodes="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="4.8337011"
-     inkscape:cx="323.63623"
-     inkscape:cy="320.18996"
+     inkscape:zoom="3.4179428"
+     inkscape:cx="56.461073"
+     inkscape:cy="824.13549"
      inkscape:window-x="0"
      inkscape:window-y="27"
      inkscape:window-maximized="1"
@@ -1743,7 +1743,7 @@
      id="progress-normal"
      transform="matrix(1.5,0,0,1,20.000003,17.000015)">
     <rect
-       style="opacity:0.12"
+       style="opacity:0.3"
        id="rect1448"
        width="8"
        height="8"
@@ -1798,42 +1798,42 @@
      height="12"
      x="71"
      y="167"
-     style="opacity:0.12" />
+     style="opacity:0.3" />
   <rect
      id="progress-normal-bottom"
      width="12"
      height="12"
      x="71"
      y="187"
-     style="opacity:0.12" />
+     style="opacity:0.3" />
   <rect
      id="progress-normal-topleft"
      width="12"
      height="12"
      x="59"
      y="167"
-     style="opacity:0.12" />
+     style="opacity:0.3" />
   <rect
      id="progress-normal-topright"
      width="12"
      height="12"
      x="83"
      y="167"
-     style="opacity:0.12" />
+     style="opacity:0.3" />
   <rect
      id="progress-normal-bottomleft"
      width="12"
      height="12"
      x="59"
      y="187"
-     style="opacity:0.12" />
+     style="opacity:0.3" />
   <rect
      id="progress-normal-bottomright"
      width="12"
      height="12"
      x="83"
      y="187"
-     style="opacity:0.12" />
+     style="opacity:0.3" />
   <rect
      id="progress-pattern-disabled-top"
      width="12"
@@ -1913,7 +1913,7 @@
      id="progress-normal-left"
      transform="matrix(1.5,0,0,1,8.0000026,17.000015)">
     <rect
-       style="opacity:0.12"
+       style="opacity:0.3"
        id="rect1477"
        width="8"
        height="8"
@@ -1924,7 +1924,7 @@
      id="progress-normal-right"
      transform="matrix(1.5,0,0,1,32.000003,17.000015)">
     <rect
-       style="opacity:0.12"
+       style="opacity:0.3"
        id="rect1480"
        width="8"
        height="8"
@@ -2840,7 +2840,7 @@
      style="fill:#00CE99" />
   <g
      id="splitter-grip-normal"
-     transform="matrix(1.1428571,0,0,1,-36.873046,-217.48545)"
+     transform="matrix(1.1428571,0,0,1,-47.630848,-218.31297)"
      style="opacity:0.00100002">
     <rect
        style="opacity:0"
@@ -2949,7 +2949,7 @@
   </g>
   <g
      id="splitter-grip-focused"
-     transform="matrix(1.1428571,0,0,1,-8.8730455,-217.48545)"
+     transform="matrix(1.1428571,0,0,1,10.780631,-220.1749)"
      style="opacity:0.00100002">
     <rect
        style="opacity:0"
@@ -2972,7 +2972,7 @@
      height="100%"
      x="0"
      y="0"
-     transform="translate(30)"
+     transform="translate(13.656416,2.2756889)"
      xlink:href="#splitter-grip-focused"
      style="opacity:0.00100002" />
   <rect
@@ -3435,7 +3435,7 @@
      id="slider-normal-right"
      transform="translate(233.62744,327.8577)">
     <rect
-       style="opacity:0.3;fill:#ffffff"
+       style="opacity:0.3;fill:#000000"
        id="rect1388"
        width="8"
        height="8"
@@ -3448,33 +3448,33 @@
      height="8"
      x="267.62741"
      y="481.85773"
-     style="opacity:0.3;fill:#ffffff" />
+     style="opacity:0.3;fill:#000000" />
   <rect
      id="slider-normal-bottomright"
      width="8"
      height="8"
      x="267.62741"
      y="497.85773"
-     style="opacity:0.3;fill:#ffffff" />
+     style="opacity:0.3;fill:#000000" />
   <rect
      id="slider-normal-topleft"
      width="8"
      height="8"
      x="259.62741"
      y="481.85773"
-     style="opacity:0.3;fill:#ffffff" />
+     style="opacity:0.3;fill:#000000" />
   <rect
      id="slider-normal-bottomleft"
      width="8"
      height="8"
      x="259.62741"
      y="497.85773"
-     style="opacity:0.3;fill:#ffffff" />
+     style="opacity:0.3;fill:#000000" />
   <g
      id="slider-normal-left"
      transform="translate(225.62744,327.8577)">
     <rect
-       style="opacity:0.3;fill:#ffffff"
+       style="opacity:0.3;fill:#000000"
        id="rect1405"
        width="8"
        height="8"
@@ -6316,7 +6316,7 @@
   </g>
   <g
      id="radio-normal"
-     transform="translate(-1.5962839,22.022098)">
+     transform="translate(0.98972623,21.711777)">
     <path
        inkscape:connector-curvature="0"
        style="opacity:0.4;fill:#ffffff"
