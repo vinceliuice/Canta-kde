@@ -1,0 +1,13 @@
+<svg width="22" height="22" enable-background="new" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dedede; } .ColorScheme-Highlight { color:#5294e2; } .ColorScheme-ButtonBackground { color:#dedede; }</style>
+ </defs>
+ <g id="quota">
+  <path d="m6 2c-1.108 0-2 0.892-2 2v14c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-14c0-1.108-0.892-2-2-2zm5 5c2.7614 0 5 2.2386 5 5 0 2.7614-2.2386 5-5 5-2.7614 0-5-2.2386-5-5 0-2.7614 2.2386-5 5-5zm4-3c0.55228 0 1 0.44772 1 1s-0.44772 1-1 1-1-0.44772-1-1 0.44772-1 1-1z" fill="#dedede"/>
+  <path d="m11 7a5 5 0 0 0-5 5 5 5 0 0 0 5 5 5 5 0 0 0 5-5h-5v-5z" fill="#dedede" opacity=".3"/>
+  <path d="m0 0h22v22h-22v-22z" opacity="0"/>
+  <g fill="#dedede">
+   <circle cx="11" cy="12" r="2"/>
+  </g>
+ </g>
+</svg>
