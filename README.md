@@ -10,6 +10,9 @@ In this repository you'll find:
 - Plasma Desktop Themes
 - Plasma Look-and-Feel Settings
 
+This theme is based on :
+Alexey Varfolomeev - https://github.com/PapirusDevelopmentTeam/materia-kde
+
 ## Installation
 
 ```sh
@@ -35,4 +38,3 @@ GNU GPL v3
 ## preview
 
 ![1](https://github.com/vinceliuice/Canta-kde/blob/master/canta.jpg?raw=true)
-
