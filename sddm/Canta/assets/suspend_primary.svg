@@ -3,17 +3,10 @@
   <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
         color:#4d4d4d;
       }</style>
-  <filter id="a" x="-.036" y="-.036" width="1.072" height="1.072" color-interpolation-filters="sRGB">
-   <feGaussianBlur stdDeviation="0.435"/>
-  </filter>
  </defs>
- <g id="system-suspend" transform="translate(60,98)">
-  <rect x="-60" y="-98" width="32" height="32" rx="0" ry="0" opacity="0" stroke-width="2" style="paint-order:fill markers stroke"/>
-  <g transform="translate(-60,-98)">
-   <path d="m16 1.5c-8 0-14.5 6.5-14.5 14.5s6.5 14.5 14.5 14.5 14.5-6.5 14.5-14.5-6.5-14.5-14.5-14.5z" color="#000000" filter="url(#a)" opacity=".15" overflow="visible"/>
-   <path d="m16 2c-7.7241 0-14 6.2759-14 14 0 7.7241 6.2759 14 14 14 7.7241 0 14-6.2759 14-14 0-7.7241-6.2759-14-14-14z" color="#000000" fill="#64728a" overflow="visible"/>
-   <path d="m16 1.5c-8 0-14.5 6.5-14.5 14.5s6.5 14.5 14.5 14.5 14.5-6.5 14.5-14.5-6.5-14.5-14.5-14.5z" color="#000000" fill="none" opacity=".5" overflow="visible" solid-color="#000000" style="isolation:auto;mix-blend-mode:normal"/>
-   <path d="m16 6.5a9.5 9.5 0 1 0 0 19 9.5 9.5 0 0 0 0-19zm0 2a7.5 7.5 0 0 1 7.438 6.5h-14.875a7.5 7.5 0 0 1 7.437-6.5zm-7.438 8.5h14.876a7.5 7.5 0 0 1-7.438 6.5 7.5 7.5 0 0 1-7.438-6.5z" color="#000000" fill="#fff" overflow="visible"/>
-  </g>
+ <g id="system-suspend-hibernate" transform="translate(40,-75)">
+  <rect x="-40" y="75" width="32" height="32" rx="0" ry="0" fill="none"/>
+  <path class="ColorScheme-Text" d="m-24 80a11 11 0 0 0-11 11 11 11 0 0 0 11 11 11 11 0 0 0 11-11 11 11 0 0 0-11-11zm0 2a9 9 0 0 1 9 9 9 9 0 0 1-9 9 9 9 0 0 1-9-9 9 9 0 0 1 9-9z" fill="#ffffff"/>
+  <rect class="ColorScheme-Text" x="-30" y="90" width="12" height="2" rx="1" ry="1" fill="#ffffff" opacity=".45"/>
  </g>
 </svg>

@@ -33,9 +33,45 @@ ForegroundPositive=0,110,40
 ForegroundVisited=224,64,251
 
 [Colors:Complementary]
-BackgroundAlternate=54,57,62
+BackgroundAlternate=59,67,66
+BackgroundNormal=39,42,42
+DecorationFocus=255,172,0
+DecorationHover=0,206,153
+ForegroundActive=255,128,224
+ForegroundInactive=153,153,153
+ForegroundLink=66,133,244
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=234,234,234
+ForegroundPositive=0,110,40
+ForegroundVisited=224,64,251
+
+[Colors:Header]
+BackgroundAlternate=240,240,240
+BackgroundNormal=255,255,255
 DecorationFocus=0,206,153
 DecorationHover=255,172,0
+ForegroundActive=255,128,224
+ForegroundInactive=153,153,153
+ForegroundLink=66,133,244
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=51,51,51
+ForegroundPositive=0,110,40
+ForegroundVisited=224,64,251
+
+[Colors:Header][Inactive]
+BackgroundAlternate=240,240,240
+BackgroundNormal=255,255,255
+DecorationFocus=0,206,153
+DecorationHover=255,172,0
+ForegroundActive=255,128,224
+ForegroundInactive=153,153,153,150
+ForegroundLink=66,133,244
+ForegroundNegative=191,3,3
+ForegroundNeutral=176,128,0
+ForegroundNormal=51,51,51,150
+ForegroundPositive=0,110,40
 ForegroundVisited=224,64,251
 
 [Colors:Selection]
@@ -95,7 +131,7 @@ ForegroundPositive=0,110,40
 ForegroundVisited=224,64,251
 
 [General]
-ColorScheme=Qogir
+ColorScheme=Cantalight
 Name=Cantalight
 shadeSortColumn=true
 

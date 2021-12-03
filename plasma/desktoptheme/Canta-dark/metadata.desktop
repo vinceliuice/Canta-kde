@@ -15,3 +15,12 @@ enabled=false
 contrast=0.2
 intensity=0.4
 saturation=1.7
+
+[Wallpaper]
+defaultWallpaperTheme=Canta-dark
+defaultFileSuffix=.png
+defaultWidth=3840
+defaultHeight=2400
+
+[AdaptiveTransparency]
+enabled=true

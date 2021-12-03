@@ -8,10 +8,8 @@ In this repository you'll find:
 - Kvantum Themes
 - Plasma Color Schemes
 - Plasma Desktop Themes
-- Plasma Look-and-Feel Settings
-
-This theme is based on :
-Alexey Varfolomeev - https://github.com/PapirusDevelopmentTeam/materia-kde
+- Plasma Global Themes
+- Wallpapers
 
 ## Installation
 
@@ -37,4 +35,5 @@ GNU GPL v3
 
 ## preview
 
-![1](https://github.com/vinceliuice/Canta-kde/blob/master/canta.jpg?raw=true)
+![1](canta-dark.png?raw=true)
+![2](canta-light.png?raw=true)

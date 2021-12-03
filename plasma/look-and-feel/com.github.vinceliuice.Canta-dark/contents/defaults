@@ -1,11 +1,11 @@
 [kdeglobals][KDE]
-widgetStyle=kvantum
+widgetStyle=kvantum-dark
 
 [kdeglobals][General]
 ColorScheme=Cantadark
 
 [kdeglobals][Icons]
-Theme=Canta
+Theme=Tela-circle-dark
 
 [plasmarc][Theme]
 name=Canta-dark

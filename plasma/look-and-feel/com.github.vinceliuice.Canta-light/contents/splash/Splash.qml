@@ -22,7 +22,7 @@ import QtQuick 2.1
 
 Image {
     id: root
-    source: "images/background.jpg"
+    source: "images/background.png"
 
     property int stage
 
@@ -42,7 +42,7 @@ Image {
         }
         Rectangle {
             radius: 3
-            color: "#22222274"
+            color: "#10101096"
             anchors {
                 bottom: parent.bottom
                 bottomMargin: 50
@@ -58,7 +58,7 @@ Image {
                     bottom: parent.bottom
                 }
                 width: (parent.width / 6) * (stage - 1)
-                color: "#FFAC00"
+                color: "#ffffff"
                 Behavior on width { 
                     PropertyAnimation {
                         duration: 250
