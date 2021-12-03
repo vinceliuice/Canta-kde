@@ -1,5 +1,8 @@
 ## Canta KDE Theme
 
+![1](canta-dark.png?raw=true)
+![2](canta-light.png?raw=true)
+
 Canta kde is a flat Design theme for KDE Plasma desktop.
 
 In this repository you'll find:
@@ -32,8 +35,3 @@ If you like my project, you can donate at:
 ## License
 
 GNU GPL v3
-
-## preview
-
-![1](canta-dark.png?raw=true)
-![2](canta-light.png?raw=true)
