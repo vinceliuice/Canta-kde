@@ -26,6 +26,8 @@ In this repository you'll find:
 
   Run `kvantummanager` to choose and apply **Canta-light** theme.
 
+- For GTK app [Canta gtk theme](https://github.com/vinceliuice/Canta-theme).
+
 ## Donate
 
 If you like my project, you can donate at:
