@@ -11,9 +11,9 @@ toolbar_item_spacing=0
 toolbar_interior_spacing=2
 spread_progressbar=true
 composite=true
-menu_shadow_depth=7
+menu_shadow_depth=10
 spread_menuitems=true
-tooltip_shadow_depth=6
+tooltip_shadow_depth=10
 splitter_width=1
 scroll_width=9
 scroll_arrows=false
@@ -69,6 +69,11 @@ contrast=1.00
 dialog_button_layout=0
 intensity=1.00
 saturation=1.00
+click_behavior=0
+drag_from_buttons=false
+menu_blur_radius=6
+shadowless_popup=false
+tooltip_blur_radius=6
 
 [GeneralColors]
 window.color=#343938
@@ -113,6 +118,11 @@ transparent_arrow_button=false
 middle_click_scroll=false
 opaque_colors=false
 scroll_jump_workaround=false
+blur_only_active_window=false
+centered_forms=false
+kinetic_scrolling=false
+noninteger_translucency=false
+style_vertical_toolbars=false
 
 [PanelButtonCommand]
 frame=true
@@ -532,15 +542,15 @@ frame.right=2
 
 [ToolTip]
 inherits=GenericFrame
-frame.top=3
-frame.bottom=3
-frame.left=3
-frame.right=3
+frame.top=6
+frame.bottom=6
+frame.left=6
+frame.right=6
 interior=true
 text.shadow=0
-text.margin=0
-interior.element=tooltip
-frame.element=tooltip
+text.margin=12
+interior.element=menu
+frame.element=menu
 frame.expansion=0
 
 [StatusBar]

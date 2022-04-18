@@ -5,7 +5,7 @@
    height="1000"
    version="1"
    sodipodi:docname="Canta-light.svg"
-   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20, custom)"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04, custom)"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:xlink="http://www.w3.org/1999/xlink"
@@ -22,7 +22,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -36,21 +35,23 @@
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1005"
      id="namedview1106"
-     showgrid="false"
+     showgrid="true"
      inkscape:snap-midpoints="true"
      inkscape:snap-smooth-nodes="true"
      showguides="true"
      inkscape:guide-bbox="true"
-     inkscape:zoom="3.4179429"
-     inkscape:cx="70.363961"
-     inkscape:cy="80.457752"
+     inkscape:zoom="2.4168506"
+     inkscape:cx="136.33445"
+     inkscape:cy="389.34968"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg1604"
-     inkscape:pagecheckerboard="0">
+     inkscape:pagecheckerboard="0"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-nodes="true">
     <inkscape:grid
        type="xygrid"
        id="grid1915" />
@@ -6457,4 +6458,53 @@
      transform="rotate(-180,49.999982,599.99995)"
      width="100%"
      height="100%" />
+  <g
+     id="arrow-menu-disabled"
+     transform="matrix(0,0.33333333,-0.33333333,0,370.49766,345.33333)">
+    <path
+       inkscape:connector-curvature="0"
+       style="opacity:0;fill:#ffffff"
+       d="m -607.493,8 h 24 v 24 h -24 z"
+       transform="rotate(-90)"
+       id="path7608-3" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#b3b3b3"
+       d="m 8,601.49299 12,-12.986 12,12.986 z"
+       id="path7610" />
+  </g>
+  <g
+     id="arrow-menu-normal"
+     transform="matrix(0,0.33333333,-0.33333333,0,357.49766,345.33333)">
+    <rect
+       width="24"
+       x="-607.49298"
+       y="8"
+       height="24"
+       style="opacity:0;fill:#ffffff"
+       transform="rotate(-90)"
+       id="rect7600" />
+    <path
+       inkscape:connector-curvature="0"
+       style="fill:#4d4d4d"
+       d="m 8,601.49299 12,-12.986 12,12.986 z"
+       id="path7602-3" />
+  </g>
+  <g
+     transform="matrix(0,0.33333333,-0.33333333,0,341.49766,346.33333)"
+     id="menuitem-right-focused">
+    <rect
+       id="rect4826"
+       transform="rotate(-90)"
+       style="opacity:0;fill:#ffffff"
+       height="24"
+       y="8"
+       x="-607.49298"
+       width="24" />
+    <path
+       id="path4828"
+       d="m 8,601.49299 12,-12.986 12,12.986 z"
+       style="fill:#f9f9f9"
+       inkscape:connector-curvature="0" />
+  </g>
 </svg>
